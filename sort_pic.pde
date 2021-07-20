@@ -7,7 +7,7 @@ ArrayList<Column> columns;
 void setup() {
   size(500, 500);
   noStroke();
-  img = loadImage("saihara.jpg");
+  img = loadImage("image.jpg");
   img.resize(500, 0);
   columns = new ArrayList<Column>();
 
